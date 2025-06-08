@@ -952,7 +952,7 @@ header .theme-menu-wrapper .main-content-wrapper {position: relative;}
 #client-carousel-generic .carousel-indicators li img {width: 64px;height: 64px;}
 /*------------------- Theme Inner Banner --------------*/
 .theme-inner-banner {
-  background: url(../images/home/inner-banner.jpg) no-repeat center;
+  background: url(../images/mainimage/g7.jpg) no-repeat center;
   background-size: cover;
   text-align: center;
 }
