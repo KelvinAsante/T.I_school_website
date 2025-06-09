@@ -572,12 +572,12 @@ header .theme-menu-wrapper .main-content-wrapper {position: relative;}
   text-align: center;
 }
 .short-banner-two.bg-one {
-  background: url(../images/home/2.jpg) no-repeat center center;
+  background: url(../images/mainimage/e1.jpg) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
 }
 .short-banner-two.bg-two {
-  background: url(../images/home/6.jpg) no-repeat center center;
+  background: url(../images/mainimage/e1.jpg) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
 }
